@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itirican11 aka Vanity
+- 👀 I’m interested in coding kernel drivers and video game cheats
+- 🌱 I’m currently learning C#/C++/C/Python.
+- 💞️ I’m looking to collaborate on nothing really.
+- 📫 How to reach me - discord.gg/VanityPremium
